@@ -74,7 +74,7 @@ nav ul li a:hover{
 }
 .image2 img{
     left: 20%;
-    object-fit: cover;
+    object-fit: contain;
     width: 20%;
     position: absolute;
     bottom: 0;

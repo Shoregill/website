@@ -75,6 +75,7 @@ nav ul li a:hover{
 .image2 img{
     left: 20%;
     object-fit: cover;
+    width: 20%;
     position: absolute;
     bottom: 0;
     transition: translateX(-50);

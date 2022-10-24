@@ -77,7 +77,7 @@ nav ul li a:hover{
     object-fit: contain;
     width: 20%;
     position: bottom;
-    bottom: 20%;
+    bottom: 0;
     transition: translateX(-50);
     transition: bottom 1s, left 1s;
 }
